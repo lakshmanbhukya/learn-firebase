@@ -3,12 +3,7 @@ import { initializeApp } from "firebase/app";
 import { getFirestore } from "firebase/firestore";
 import { getAuth, GoogleAuthProvider } from "firebase/auth";
 const firebaseConfig = {
-  apiKey: "AIzaSyDCYgzuDiESSqecUHFNeaYK5xEGDqraMcg",
-  authDomain: "demofirebase-exe.firebaseapp.com",
-  projectId: "demofirebase-exe",
-  storageBucket: "demofirebase-exe.firebasestorage.app",
-  messagingSenderId: "58026073944",
-  appId: "1:58026073944:web:20adf808c3b378608b8f2d",
+  //your_config
 };
 
 // Initialize Firebase
